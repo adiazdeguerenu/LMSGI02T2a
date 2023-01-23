@@ -1,0 +1,22 @@
+header{
+    font-size: 35px;
+    display:flex;
+    column-gap: 95px;
+}   
+
+section {
+    margin: 15px;
+    padding: 50px;
+    row-gap: 50px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 60px;
+}
+
+aside {
+    margin: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}

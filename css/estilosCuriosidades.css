@@ -1,0 +1,60 @@
+header {
+    display: flex;
+    flex-direction: row;
+}
+.titulo {
+    color: darkturquoise;
+    font-size: xx-large;
+    padding: 20px;
+}
+.busca {
+    padding: 30px;
+    color: deeppink;
+    background-color: aquamarine;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.opciones {
+    font-size: xx-large;
+
+}
+section {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+.uno {
+    display: flex;
+    flex-direction: column;
+}
+.mujer {
+    padding: 20 px;
+    font-size: medium;
+    color: rgb(144, 65, 209);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.jota {
+    font-size: large;
+    color: rgb(11, 139, 69);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.helio {
+font-size: medium;
+    color: rgb(153, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+aside {
+    display: flex;
+    flex-direction: row;
+    row-gap: 20px;
+    column-gap: 200px;
+    padding: 80px;
+}
+.pie {
+    font-size: large;
+    color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+
+}

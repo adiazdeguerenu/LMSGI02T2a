@@ -1,0 +1,49 @@
+header {
+    background-color: rgb(82, 185, 226);
+    font-family: "comic sans MS";
+    font-size:x-large ;
+    text-align: center;
+    
+}   
+.container {
+    
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 5px;
+    width: 800 px;
+    height: 600;
+    min-height: 300px;
+    display: grid;
+    grid-template-columns: repeat(5, 160 px);
+    grid-template-rows:repeat(6, 100 px);
+    column-gap: 5px;
+    row-gap: 30px;
+}
+  
+  .htitulo {
+    grid-column: 2/3;
+    
+  }
+  .hagua {
+    grid-column: 1/2;
+    
+  }
+.hatomo {
+    grid-column-start: 4/5;
+    
+}
+.hvalencia {
+    grid-column:3;
+}
+.hexplosion {
+    grid-column: 1/3;
+}
+.tpvolver {
+    grid-column: 3;
+}
+
+
+
+
+
+  

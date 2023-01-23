@@ -1,0 +1,13 @@
+body {
+    font-family: "comic sans MS"; 
+}
+
+
+
+section {
+    background-color: transparent;
+    background-image: url ("../img/fondo.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    }
